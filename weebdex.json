@@ -1,0 +1,12 @@
+{
+  "id": "weebdex",
+  "name": "WeebDex",
+  "description": "WeebDex manga provider for Seanime - access manga from weebdex.org",
+  "manifestURI": "https://raw.githubusercontent.com/Ari-03/weebdex/refs/heads/main/weebdex.json",
+  "version": "1.0.0",
+  "author": "ari___",
+  "type": "manga-provider",
+  "language": "typescript",
+  "lang": "en",
+  "payloadURI": "https://raw.githubusercontent.com/Ari-03/weebdex/refs/heads/main/provider.ts"
+}
